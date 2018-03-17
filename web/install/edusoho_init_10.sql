@@ -1,0 +1,1 @@
+INSERT INTO `org` (`id`, `name`, `parentId`, `childrenNum`, `depth`, `seq`, `description`, `code`, `orgCode`, `createdUserId`, `createdTime`, `updateTime`) VALUES (1,'全站',0,0,1,0,NULL,'FullSite','1.',1,1515719362,1515719362);
